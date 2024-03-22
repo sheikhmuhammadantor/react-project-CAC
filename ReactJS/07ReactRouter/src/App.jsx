@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-gray-500 p-4 rounded-2xl text-emerald-400
-      '>React Router Dom</h1>
+
     </>
   )
 }
